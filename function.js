@@ -24,6 +24,7 @@ let c=function(a,b)
     return a/b;
 }
 console.log(c(2,3))
+
 //IIFE -> Intermediately Invoke Function Expression
  let add1=(function(a,b)
  {
