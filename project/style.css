@@ -1,0 +1,53 @@
+/*default styling*/
+html{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+   
+}
+header h1{
+    font-weight:400;
+}
+
+header {
+    display:flex;
+   justify-content: space-between;
+margin:0 2rem;
+}
+li{
+    list-style: none;
+    font-size:1.5rem;
+}
+ ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display:flex;
+    justify-content:space-between;
+    width: 90%;
+    
+}
+nav{
+    position:relative;/*postion means allow krrr diya hai hum koi bhi text kahi bhi move krr sakte hai*/
+    top: 1rem;
+    width: 20rem;
+}
+.showcase_img{
+    width:95vw;/*view port eidth it change the size according to browser screen*/
+    margin:1rem;
+}
+article{
+    text-align:center;
+    display:flex;
+    
+}
+.container1{
+margin-right: 1rem;
+   
+}
+.container2{
+    margin-right: 1rem;
+       
+    }
+.container3{
+ margin-right: 1rem;
+}
+
+    
